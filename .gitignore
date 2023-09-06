@@ -163,3 +163,4 @@ data/processed/
 data/raw/test.csv
 data/raw/test.csv.zip
 src/catboost_info/
+model/w2v
